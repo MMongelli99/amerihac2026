@@ -1,0 +1,15 @@
+.direnv
+
+.cabal
+
+# PostgreSQL data
+.postgres/
+
+# Cabal build artifacts
+dist-newstyle/
+cabal.project.local
+cabal.project.local~
+
+# Nix
+result
+result-*
